@@ -1,11 +1,11 @@
 {
- "name": "YY Rate List \u2014 PRINT POINT",
- "short_name": "YY Rates",
+ "name": "YY Rate List",
+ "short_name": "YY Rate List",
  "start_url": ".",
  "scope": ".",
  "display": "standalone",
- "background_color": "#0b4fd6",
- "theme_color": "#0b4fd6",
+ "background_color": "#f8f1e3",
+ "theme_color": "#5c0a1e",
  "icons": [
   {
    "src": "icon-192.png",
